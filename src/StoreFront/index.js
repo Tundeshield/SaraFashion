@@ -96,7 +96,7 @@ const StoreFront = () => {
 								</li>
 							</ul>
 						</div>
-						<div>
+						<div className="nav__icons">
 							<div className="nav__cart">
 								<ShoppingCartIcon />
 							</div>

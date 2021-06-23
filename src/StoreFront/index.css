@@ -345,6 +345,10 @@ body {
 	row-gap: 2rem;
 }
 
+.nav__icons {
+	display: flex;
+}
+
 .new__box {
 	position: relative;
 	display: flex;
@@ -463,6 +467,7 @@ footer {
 		align-items: center;
 		display: flex;
 	}
+
 	.nav__menu {
 		margin-left: auto;
 	}
